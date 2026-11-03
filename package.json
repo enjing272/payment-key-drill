@@ -1,0 +1,1 @@
+{"name":"payment-key-drill","version":"1.0.0","private":true,"type":"module","scripts":{"start":"node src/payment_drill.ts","test":"node --test src/payment_policy.test.ts","typecheck":"tsc --noEmit"},"dependencies":{"zod":"^3.24.2"},"devDependencies":{"@types/node":"^22.10.0","typescript":"^5.7.3"}}
